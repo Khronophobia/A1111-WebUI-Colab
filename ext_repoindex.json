@@ -1,0 +1,66 @@
+{
+  "0": [
+    "Mikubill/sd-webui-controlnet",
+    "ControlNet"
+  ],
+  "1": [
+    "kohya-ss/sd-webui-additional-networks",
+    "Additional Networks"
+  ],
+  "2": [
+    "Coyote-A/ultimate-upscale-for-automatic1111",
+    "Ultimate SD Upscale"
+  ],
+  "3": [
+    "KohakuBlueleaf/a1111-sd-webui-lycoris",
+    "LyCORIS"
+  ],
+  "4": [
+    "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
+    "Aesthetic Gradients"
+  ],
+  "5": [
+    "butaixianran/stable-diffusion-webui-Civitai-Helper",
+    "Civitai Helper"
+  ],
+  "6": [
+    "richrobber2/canvas-zoom",
+    "Canvas Zoom"
+  ],
+  "7": [
+    "vladmandic/sd-extension-system-info",
+    "System Info"
+  ],
+  "8": [
+    "ashen-sensored/sd-dynamic-thresholding-rcfg",
+    "Dynamic Thresholding"
+  ],
+  "9": [
+    "arenasys/stable-diffusion-webui-model-toolkit",
+    "Model Toolkit"
+  ],
+  "10": [
+    "hako-mikan/sd-webui-supermerger",
+    "SD Supermerger"
+  ],
+  "11": [
+    "hnmr293/sd-webui-cutoff",
+    "SD Webui Cutoff"
+  ],
+  "12": [
+    "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "Multi Diffusion"
+  ],
+  "13": [
+    "tumurzakov/sd_webui_SAG",
+    "Self Attention Guidance"
+  ],
+  "14": [
+    "hako-mikan/sd-webui-lora-block-weight",
+    "LoRA Block Weight"
+  ],
+  "15": [
+    "mcmonkeyprojects/sd-infinity-grid-generator-script",
+    "Infinity Grid Generator"
+  ]
+}
